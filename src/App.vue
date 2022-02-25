@@ -1,8 +1,4 @@
 <template>
-  <img
-    alt="Vue logo"
-    src="./assets/logo.png"
-  >
   <HelloWorld msg="vuejs Composition api" />
 </template>
 

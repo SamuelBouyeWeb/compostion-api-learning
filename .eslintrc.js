@@ -21,9 +21,4 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
   },
 
-  extends: [
-    'plugin:vue/vue3-essential',
-    '@vue/airbnb',
-    'plugin:vue/vue3-recommended',
-  ],
 };
